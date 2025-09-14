@@ -12,5 +12,6 @@ int main(){
 }
 
 
-/* we learnt in day one 1) basic structure of c++ 2) output 3) variables and data types 4) arithmetic operators 5) using cin */
+/* we learnt in day 1) syntax 2) cin and cout 3) comments 4) variables and data types 5) operators */
+
 
